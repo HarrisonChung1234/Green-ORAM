@@ -1,0 +1,12 @@
+bin/usimm input/1channel.cfg input/data/black > output/black_GreenORAM
+bin/usimm input/1channel.cfg input/data/face > output/face_GreenORAM
+bin/usimm input/1channel.cfg input/data/ferret > output/ferret_GreenORAM
+bin/usimm input/1channel.cfg input/data/fluid > output/fluid_GreenORAM
+bin/usimm input/1channel.cfg input/data/freq > output/freq_GreenORAM
+bin/usimm input/1channel.cfg input/data/stream > output/stream_GreenORAM
+bin/usimm input/1channel.cfg input/data/swapt > output/swapt_GreenORAM
+bin/usimm input/1channel.cfg input/data/comm1 > output/comm1_GreenORAM
+bin/usimm input/1channel.cfg input/data/comm2 > output/comm2_GreenORAM
+bin/usimm input/1channel.cfg input/data/comm3 > output/comm3_GreenORAM
+bin/usimm input/1channel.cfg input/data/comm4 > output/comm4_GreenORAM
+bin/usimm input/1channel.cfg input/data/comm5 > output/comm5_GreenORAM
